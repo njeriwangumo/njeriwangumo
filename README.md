@@ -16,9 +16,12 @@ Experimenting with Layer 2 solutions to enhance scalability and efficiency
 💬 Conversations I'll Gladly Hop On To:
 Real-world use cases in fintech and property tech
 Decentralized apps (DApps) that bring new solutions to traditional industries
+
 Innovative projects in the blockchain space
 ⚡ Fun fact:
 My tech journey started with a real-world problem, and now I'm deep into code! When I'm not debugging, I'm probably thinking about how tech can solve the next big challenge.
+
+Also Arduino was my first love!
 
 
 -->
